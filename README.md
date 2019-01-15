@@ -1,11 +1,12 @@
 # ctop
-bash script for monitoring cluster nodes
+
+Linux command for monitoring computer cluster.
 
 Screenshot - CPU usage mode
-![CPU usage](screenshot1.gif)
+![CPU usage](docs/screenshot1.gif)
 
 Screenshot - Memory usage mode
-![CPU usage](screenshot2.gif)
+![CPU usage](docs/screenshot2.gif)
 
 Type 'm'(change mode) to switch to memory usage mode
 

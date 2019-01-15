@@ -1,0 +1,38 @@
+## nodelist used for ctop
+
+## === Compute nodes ===
+
+## RACK2 (Optiplex 990)
+node1   192.168.10.1   np=4 c=2  r=1  size=49
+node2   192.168.10.2   np=4 c=2  r=2  size=49
+node3   192.168.10.3   np=4 c=2  r=3  size=49
+node4   192.168.10.4   np=4 c=2  r=4  size=49
+node5   192.168.10.5   np=4 c=2  r=5  size=49
+node6   192.168.10.6   np=4 c=2  r=6  size=49
+node7   192.168.10.7   np=4 c=2  r=7  size=49
+node8   192.168.10.8   np=4 c=2  r=8  size=49
+node9   192.168.10.9   np=4 c=2  r=9  size=49
+node10  192.168.10.10  np=4 c=1  r=10 size=50
+node11  192.168.10.11  np=4 c=1  r=11 size=50
+node12  192.168.10.12  np=4 c=1  r=12 size=50
+# node13  192.168.10.13  np=4 c=1  r=13 size=50
+# node14  192.168.10.14  np=4 c=1  r=14 size=50
+# node15  192.168.10.15  np=4 c=1  r=15 size=50
+# node16  192.168.10.16  np=4 c=1  r=16 size=50
+# node17  192.168.10.17  np=4 c=1  r=17 size=50
+# node18  192.168.10.18  np=4 c=1  r=18 size=50
+# node19  192.168.10.19  np=4 c=1  r=19 size=50
+# node20  192.168.10.20  np=4 c=1  r=20 size=50
+# node21  192.168.10.21  np=4 c=1  r=21 size=50
+# node22  192.168.10.22  np=4 c=1  r=22 size=50
+# node23  192.168.10.23  np=4 c=1  r=23 size=50
+# node24  192.168.10.24  np=4 c=1  r=24 size=50
+# node25  192.168.10.25  np=4 c=1  r=25 size=50
+# node26  192.168.10.26  np=4 c=1  r=26 size=50
+
+## R815 machine
+mirna1 192.168.10.253 np=48 c=1 r=28 size=50
+mirna2 192.168.10.252 np=48 c=1 r=29 size=50
+
+## === Master node ===
+sirna1 192.168.10.254 np=4 c=1 r=31 size=50

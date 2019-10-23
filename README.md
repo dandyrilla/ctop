@@ -1,13 +1,9 @@
 # ctop
 
-Linux command for monitoring computer cluster.
+Bash script for monitoring linux cluster.
 
-Screenshot - CPU usage mode
-![CPU usage](docs/screenshot1.gif)
+```bash
+$ ctop
+```
 
-Screenshot - Memory usage mode
-![CPU usage](docs/screenshot2.gif)
-
-Type 'm'(change mode) to switch to memory usage mode
-
-Retype 'm' to return to CPU usage mode
+![CPU usage](docs/main.gif)
